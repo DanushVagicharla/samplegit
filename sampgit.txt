@@ -1,0 +1,4 @@
+sampgit
+
+this is sample text file for GitHub 
+"C:\Users\danus\OneDrive\Desktop\sampgit.txt"
